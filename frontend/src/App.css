@@ -42,11 +42,12 @@ body {
 }
 
 nav {
-  background-color: #056a3a;
+  background-color: hsl(96, 44%, 73%);
   padding: 1rem 1rem;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  
 }
 
 #search_btn {
